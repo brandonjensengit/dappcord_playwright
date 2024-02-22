@@ -40,6 +40,8 @@
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^2.0.1",
     "@openzeppelin/contracts": "^4.8.1",
+    "@playwright/test": "^1.41.2",
+    "@types/node": "^20.11.20",
     "hardhat": "^2.12.6"
   }
 }
